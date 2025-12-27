@@ -1,0 +1,11 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "endstone-ustatistic"
+version = "251220"
+description = "Null"
+
+[project.entry-points."endstone"]
+ustatistic = "endstone_ustatistic:ustatistic"
