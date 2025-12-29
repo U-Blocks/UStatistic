@@ -1,4 +1,4 @@
-<code><a href="https://github.com/U-Blocks/U_Beautiful_Chat"><img height="20" src="./logo/logo.jpg" alt="UStatistic" /></a>&nbsp;<a href="https://github.com/U-Blocks/U_Beautiful_Chat">UStatistic</a></code>
+<code><a href="https://github.com/U-Blocks/U_Beautiful_Chat"><img height="25" src="./logo/logo.jpg" alt="UStatistic" /></a>&nbsp;<a href="https://github.com/U-Blocks/U_Beautiful_Chat">UStatistic</a></code>
 
 ![Total Git clones](https://img.shields.io/badge/dynamic/json?label=Total%20Git%20clones&query=$&url=https://cdn.jsdelivr.net/gh/umarurize/UStatistic@master/clone_count.txt&color=brightgreen)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/umarurize/UStatistic/total)
