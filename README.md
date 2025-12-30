@@ -56,6 +56,26 @@ plugins/
 
 ***
 
+### ⚙️ Configuration
+`statistical_data.json`
+```json5
+{
+    "umaru rize": {
+        "break_count": 0,
+        "place_count": 0,
+        "death_count": 0,
+        "kill_player_count": 0,
+        "kill_mob_count": 0,
+        "online_time": 0,
+        "pick_up_item_count": 0,
+        "drop_item_count": 0,
+        "move_distance": 0
+    }
+}
+```
+
+***
+
 ### 🌎 Localized multi-language
 * Currently supported localized languages for UStatistic:
 - [x] `zh_CN`
