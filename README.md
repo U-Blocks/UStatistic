@@ -48,15 +48,7 @@
 ```
 plugins/
 ├─ ustatistic/
-│  ├─ player-break-count.json
-│  ├─ player-place-count.json
-│  ├─ player-death-count.json
-│  ├─ player-kill-mob-count.json
-│  ├─ player-kill-player-count.json
-│  ├─ player-drop-item-count.json
-│  ├─ player-pick-up-item-count.json
-│  ├─ player-move-distance.json
-│  ├─ player-online-time.json
+│  ├─ statistical_data.json
 │  ├─ lang/
 │  │  ├─ zh_CN.json
 │  │  ├─ en_US.json
